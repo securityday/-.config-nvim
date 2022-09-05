@@ -8,6 +8,7 @@
 <h6>sudo apt-get install ruby</h6>
 <br>
 <h6>gem install neovim</h6>
+<h6>gem install solargraph</h6>
 <h6>npm install -g neovim</h6>
 <h6>pip3 install neovim</h6>
 <h6>pip2 install neovim</h6>
