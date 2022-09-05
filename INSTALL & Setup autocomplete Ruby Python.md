@@ -11,4 +11,5 @@
 <h6>npm install -g neovim</h6>
 <h6>pip3 install neovim</h6>
 <h6>pip2 install neovim</h6>
+<br>
 DONE.
